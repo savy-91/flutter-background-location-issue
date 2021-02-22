@@ -1,0 +1,79 @@
+PODS:
+  - background_fetch (0.6.0):
+    - Flutter
+  - CocoaLumberjack (3.6.2):
+    - CocoaLumberjack/Core (= 3.6.2)
+  - CocoaLumberjack/Core (3.6.2)
+  - Flutter (1.0.0)
+  - flutter_background_geolocation (1.11.0):
+    - CocoaLumberjack (~> 3.6.0)
+    - Flutter
+  - flutter_cm_sensor_recorder (0.0.1):
+    - Flutter
+  - flutter_local_notifications (0.0.1):
+    - Flutter
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - path_provider (0.0.1):
+    - Flutter
+  - "permission_handler (5.1.0+2)":
+    - Flutter
+  - sensors (0.0.1):
+    - Flutter
+  - sqflite (0.0.2):
+    - Flutter
+    - FMDB (>= 2.7.5)
+
+DEPENDENCIES:
+  - background_fetch (from `.symlinks/plugins/background_fetch/ios`)
+  - Flutter (from `Flutter`)
+  - flutter_background_geolocation (from `.symlinks/plugins/flutter_background_geolocation/ios`)
+  - flutter_cm_sensor_recorder (from `.symlinks/plugins/flutter_cm_sensor_recorder/ios`)
+  - flutter_local_notifications (from `.symlinks/plugins/flutter_local_notifications/ios`)
+  - path_provider (from `.symlinks/plugins/path_provider/ios`)
+  - permission_handler (from `.symlinks/plugins/permission_handler/ios`)
+  - sensors (from `.symlinks/plugins/sensors/ios`)
+  - sqflite (from `.symlinks/plugins/sqflite/ios`)
+
+SPEC REPOS:
+  trunk:
+    - CocoaLumberjack
+    - FMDB
+
+EXTERNAL SOURCES:
+  background_fetch:
+    :path: ".symlinks/plugins/background_fetch/ios"
+  Flutter:
+    :path: Flutter
+  flutter_background_geolocation:
+    :path: ".symlinks/plugins/flutter_background_geolocation/ios"
+  flutter_cm_sensor_recorder:
+    :path: ".symlinks/plugins/flutter_cm_sensor_recorder/ios"
+  flutter_local_notifications:
+    :path: ".symlinks/plugins/flutter_local_notifications/ios"
+  path_provider:
+    :path: ".symlinks/plugins/path_provider/ios"
+  permission_handler:
+    :path: ".symlinks/plugins/permission_handler/ios"
+  sensors:
+    :path: ".symlinks/plugins/sensors/ios"
+  sqflite:
+    :path: ".symlinks/plugins/sqflite/ios"
+
+SPEC CHECKSUMS:
+  background_fetch: 9221ccc02b41aff8a52b2090d9f791c5ed82eaee
+  CocoaLumberjack: bd155f2dd06c0e0b03f876f7a3ee55693122ec94
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
+  flutter_background_geolocation: 5a1e2c73ba4499a1063db68d604c3ed47e460f80
+  flutter_cm_sensor_recorder: e1d6af0b17d5c9ef734d9eede9d967761ab56212
+  flutter_local_notifications: 0c0b1ae97e741e1521e4c1629a459d04b9aec743
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  path_provider: abfe2b5c733d04e238b0d8691db0cfd63a27a93c
+  permission_handler: ccb20a9fad0ee9b1314a52b70b76b473c5f8dab0
+  sensors: 84eb7a30e47a649e4172b71d6e81be614c280336
+  sqflite: 6d358c025f5b867b29ed92fc697fd34924e11904
+
+PODFILE CHECKSUM: bef2bc75a85e31a414443abf4379bcd30b9dad66
+
+COCOAPODS: 1.10.1
